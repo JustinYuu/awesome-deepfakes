@@ -11,9 +11,9 @@ A curated list of awesome DeepFake papers, datasets, and codes.
 *Libraries for DeepFake public published or arXiv preprint papers.*  
 
 * Deepfake Survey&Reports  
-    - “Deep Fakes” using Generative Adversarial Networks(GAN) (Report2016) [\[paper]](http://noiselab.ucsd.edu/ECE228_2018/Reports/Report16.pdf)    
-    - Deep Learning for Deepfakes Creation and Detection (arXiv Preprint 2019.9) [\[paper]](https://arxiv.org/pdf/1909.11573.pdf)  
-    - DeepFakes a new threat to face recognition assessment and detection (arXiv Preprint 2018.12) [\[paper]](https://arxiv.org/pdf/1812.08685.pdf)  
+    - “Deep Fakes” using Generative Adversarial Networks(GAN) (Report2016) [[paper]](http://noiselab.ucsd.edu/ECE228_2018/Reports/Report16.pdf)    
+    - Deep Learning for Deepfakes Creation and Detection (arXiv Preprint 2019.9) [[paper]](https://arxiv.org/pdf/1909.11573.pdf)  
+    - DeepFakes a new threat to face recognition assessment and detection (arXiv Preprint 2018.12) [[paper]](https://arxiv.org/pdf/1812.08685.pdf)  
     
 
 * Deepfake Creation  
